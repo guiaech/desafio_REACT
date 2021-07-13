@@ -16,9 +16,10 @@ export const List = styled.ul`
 
 export const ListItem = styled.li`
  margin: .5rem 0;
- background: #000;
+ background: blue;
  color: #fff;
- padding: .5ren
+ padding: .5ren;
+ text-align: center;
 `;
 
 export const Container = styled.div`
